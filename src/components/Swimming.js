@@ -13,7 +13,7 @@ class Swimming extends Component {
       <div>
         <h2>
           Laps Swam:
-          {this.state.jumps}
+          {this.state.laps}
         </h2>
         <button onClick={() => this.setState({ laps: this.state.laps + 1 })}>
           Laps Swam
