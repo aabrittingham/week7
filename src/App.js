@@ -1,5 +1,5 @@
 import Run from "./components/Run";
-import JumpRope from "./components/Run";
+import JumpRope from "./components/JumpRope";
 function App() {
   return (
     <div>
